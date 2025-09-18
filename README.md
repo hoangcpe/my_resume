@@ -29,3 +29,4 @@ My Porfolio website: (https://hoangcpe.org/)
 ---
 
 *Always tinkering. Always learning. Always building.*
+Lifelong learner
