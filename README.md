@@ -9,7 +9,7 @@ Currently studying at Kennesaw State University — passionate about blending ha
 - **Hardware:** Soldering, embedded systems, signal processing, circuit design, electricals
 - **Digital Logic:** Verilog, flip-flops, counters, state maps, K-maps
 - **Tools:** [Digital by @hneemann](https://github.com/hneemann/Digital)
-- **Hobbies:** Repairing electronics, jailbreaking iPhones, modding retro handheld gaming devices
+- **Hobbies:** Repairing electronics, jailbreaking iPhones, modding retro handheld gaming devices, Piano
 
 ## 🏆 Favorite Project
 
